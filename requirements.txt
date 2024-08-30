@@ -6,4 +6,5 @@ flask
 pypdf
 langchain-pinecone
 langchain-community>=0.0.38
+python-dotenv
 -e . # find the setup.py file
