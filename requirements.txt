@@ -1,7 +1,8 @@
 ctransformers ==0.2.5 # load the quantized model on CPU
 sentence-transformers==2.2.2
 pinecone-client
-langchain==0.0.225
+langchain>=0.1.2
 flask
 pypdf
 langchain-pinecone
+langchain-community>=0.0.38
